@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yasith Disanayaka - @ItsBlck
+- 👋 Hi, I’m Yasith Disanayaka - @YasithDSL
 - 👀 I’m interested in blockhain and applications
 - 🌱 I’m currently learning how to develop blockchain solutions
 - 💞️ I’m looking to collaborate on most desktop application projects
